@@ -1,4 +1,4 @@
-# pygame Practice, Fore Thomas, 11/29/21 9:10, v0.0
+# pygame Practice, Fore Thomas, 11/29/21 9:34, v0.3
 
 import pygame, sys
 from pygame.locals import *
